@@ -4,14 +4,14 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 
 let inventory = []
-for (let i = 0; i < 20; i++) {
+for (let i = 0; i < 3; i++) {
   inventory.push({
     id: i.toString(),
-    image_url: "https://i.imgur.com/HxJFD2t.jpg",
-    rate: 125,
-    year: 2016,
-    make: 'Mazda',
-    model: 'MX-5'
+    image_url: "https://i.imgur.com/e6hOBiW.jpg",
+    rate: 299,
+    year: 2020,
+    make: 'Mercedes',
+    model: 'GLS-450'
   })
 }
 

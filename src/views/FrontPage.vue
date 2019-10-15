@@ -14,7 +14,7 @@
               </h1>
             </v-flex>
             <h4 class="subheading">
-              Find the perfect Benz today
+              Find the perfect car today
             </h4>
           </v-layout>
           <v-layout>
@@ -98,21 +98,7 @@
                 Our Mission
               </v-card-title>
               <v-card-text>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                ultrices urna. Nullam in viverra enim, ac euismod ex. Curabitur placerat iaculis euismod. Aenean eget 
-                volutpat massa, blandit imperdiet nisl. Integer id massa odio. Quisque at elementum justo. Sed tincidunt 
-                sagittis est, sed consectetur nibh tristique sed.<br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                ultrices urna. Nullam in viverra enim, ac euismod ex. Curabitur placerat iaculis euismod. Aenean eget 
-                volutpat massa, blandit imperdiet nisl. Integer id massa odio. Quisque at elementum justo. Sed tincidunt 
-                sagittis est, sed consectetur nibh tristique sed.<br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                ultrices urna. Nullam in viverra enim, ac euismod ex. Curabitur placerat iaculis euismod. Aenean eget 
-                volutpat massa, blandit imperdiet nisl. Integer id massa odio. Quisque at elementum justo. Sed tincidunt 
-                sagittis est, sed consectetur nibh tristique sed.
+                Provide a stress free car renting experience. Luxury, Sports, Family, we have a car for you.
               </v-card-text>
             </v-card>
           </v-flex>
@@ -133,9 +119,7 @@
                   Our Inventory
                 </v-card-title>
                 <v-card-text class="px-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                  Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                  ultrices urna. Nullam in viverra enim, ac euismod ex.
+                  Reliable. Clean. Ready for your next adventure?
                 </v-card-text>
               </v-card>
             </v-flex>
@@ -156,21 +140,7 @@
                 Contact Us
               </v-card-title>
               <v-card-text>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                ultrices urna. Nullam in viverra enim, ac euismod ex. Curabitur placerat iaculis euismod. Aenean eget 
-                volutpat massa, blandit imperdiet nisl. Integer id massa odio. Quisque at elementum justo. Sed tincidunt 
-                sagittis est, sed consectetur nibh tristique sed.<br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                ultrices urna. Nullam in viverra enim, ac euismod ex. Curabitur placerat iaculis euismod. Aenean eget 
-                volutpat massa, blandit imperdiet nisl. Integer id massa odio. Quisque at elementum justo. Sed tincidunt 
-                sagittis est, sed consectetur nibh tristique sed.<br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec hendrerit nunc. Sed at hendrerit tortor. 
-                Nunc tristique felis non lorem blandit blandit. Morbi ante nunc, dignissim in varius eget, efficitur 
-                ultrices urna. Nullam in viverra enim, ac euismod ex. Curabitur placerat iaculis euismod. Aenean eget 
-                volutpat massa, blandit imperdiet nisl. Integer id massa odio. Quisque at elementum justo. Sed tincidunt 
-                sagittis est, sed consectetur nibh tristique sed.
+                Call Us! 704 915 0163
               </v-card-text>
             </v-card>
           </v-flex>
